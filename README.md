@@ -28,7 +28,7 @@ Welcome to **Foxy Viking!**, the game where you embrace your inner Viking, explo
 
 ## Screenshot 📸
 
-*(Placeholder for your epic Foxy Viking screenshot—don’t forget to show off your loot!)*
+![Galaxy Foxy Screenshot](https://github.com/Tiger-Foxx/foxy-vinkings-exploration/blob/main/cap.png)
 
 ---
 
