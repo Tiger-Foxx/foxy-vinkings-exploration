@@ -1,0 +1,33 @@
+{
+  "url": "entity/bear.png",
+  "animations": [
+    {
+      "name": "idle",
+      "width": 18,
+      "height": 18,
+      "type": {
+        "normal": 0
+      },
+      "frames": [
+        [0],
+        [3],
+        [6],
+        [9]
+      ]
+    },
+    {
+      "name": "walk",
+      "width": 18,
+      "height": 18,
+      "type": {
+        "normal": 18
+      },
+      "frames": [
+        [1, 0, 2, 0],
+        [4, 3, 5, 3],
+        [7, 6, 8, 6],
+        [10, 9, 11, 9]
+      ]
+    }
+  ]
+}

@@ -1,0 +1,10 @@
+appId: "ch.studimax.tea"
+productName: "The Epic Adventure"
+files:
+  - "dist/"
+  - "resources/"
+directories:
+  output: "release"
+mac:
+  target: dmg
+  category: "public.app-category.games"

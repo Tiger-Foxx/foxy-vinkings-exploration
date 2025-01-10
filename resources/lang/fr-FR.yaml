@@ -1,0 +1,146 @@
+#====
+language.code: fr-FR
+language.name: Français
+language.region: France
+version:  1
+#====
+
+biome.ocean:  Océan
+biome.deep_ocean: Océan Profond
+biome.warm_ocean: Océan Chaud
+biome.cold_ocean: Océan Froid
+biome.beach: Plage
+biome.tundra: Tundra
+biome.snow: Neige
+biome.taiga: Taïga
+biome.grassland: Plaine
+biome.forest: Forêt
+biome.desert: Désert
+biome.jungle: Jungle
+biome.savanna: Savane
+biome.river: Rivière
+biome.cave: Grotte
+biome.swamp: Marais
+
+tile.water: Eau
+tile.sand:  Sable
+tile.grass: Herbe
+tile.dirt: Terre
+tile.lilypad: Nénuphar
+tile.lava: Lave
+tile.farmland: Terre labourée
+tile.wheat: Blé
+tile.potato: Patate
+tile.carrot: Carotte
+tile.corn: Maïs
+tile.tree: Arbre
+tile.spruce: Sapin
+tile.palm: Palmier
+tile.acacia: Acacia
+tile.birch: Bouleau
+tile.swamp_tree: Arbre des Marais
+tile.rock: Roche
+tile.hole: Trou
+tile.snow: Neige
+tile.ice: Glace
+tile.plank: Planche
+tile.rail: Rail
+tile.flower: Fleur
+tile.bush: Buisson
+tile.stone: Pierre
+tile.fence: Barrière
+tile.fence_gate: Portillon
+tile.sugar_cane: Canne à Sucre
+
+entity.player: Joueur
+entity.zombie: Zombie
+entity.skeleton: Squelette
+entity.fish: Poisson
+entity.chicken: Poulet
+entity.bed: Lit
+entity.chest: Coffre
+entity.itemEntity: itemEntity
+
+item.dirt: Terre
+item.sand: Sable
+item.ice: Glace
+item.snowball: Boule de neige
+item.apple: Pomme
+item.wheat: Blé
+item.potato: Patate
+item.carrot: Carotte
+item.corn: Maïs
+item.cake: Gâteau
+item.egg: Œuf
+item.seed_wheat: Graine de blé
+item.stone: Pierre
+item.wood: Bois
+item.stick: Baton
+item.cactus_flower: Fleur de catus
+item.lilypad: Nénuphar
+item.rail: Rail
+item.bread: Pain
+item.glass: Verre
+item.coal: Charbon
+item.flask: Fiole
+item.flint: Silex
+item.fence: Barrière
+item.fence_gate: Portillon
+
+item.iron: Fer
+item.gold: Or
+item.diamond: Diamant
+
+item.wood_axe: Hache en bois
+item.wood_hoe: Houe en bois
+item.wood_pickaxe: Pioche en bois
+item.wood_shovel: Pelle en bois
+item.wood_sword: Epée en bois
+
+item.stone_axe: Hache en pierre
+item.stone_hoe: Houe en pierre
+item.stone_pickaxe: Pioche en pierre
+item.stone_shovel: Pelle en pierre
+item.stone_sword: Epée en pierre
+
+item.iron_axe: Hache en fer
+item.iron_hoe: Houe en fer
+item.iron_pickaxe: Pioche en fer
+item.iron_shovel: Pelle en fer
+item.iron_sword: Epée en fer
+
+item.gold_axe: Hache en or
+item.gold_hoe: Houe en or
+item.gold_pickaxe: Pioche en or
+item.gold_shovel: Pelle en or
+item.gold_sword: Epée en or
+
+item.diamond_axe: Hache en diamant
+item.diamond_hoe: Houe en diamant
+item.diamond_pickaxe: Pioche en diamant
+item.diamond_shovel: Pelle en diamant
+item.diamond_sword: Epée en diamant
+
+item.fishing_rod: Canne à pêche
+item.fish: Poisson
+
+item.camp: Camp
+item.chest: Coffre
+item.music_player: Lecteur de Musique
+item.bed: Lit
+item.oven: Four
+item.furnace: Fourneau
+item.alembic: Alembic
+item.anvil: Enclume
+item.workbench: Établi
+
+item.potion_speed: Potion de rapidité
+item.potion_heal: Potion de soins
+item.potion_hunger: Potion de faim
+item.potion_power: Potion de force
+item.potion_slow: Potion de lenteur
+
+item.bucket_empty: Seau vide
+item.bucket_water: Seau d'eau
+item.bucket_lava: Seau de lave
+item.bucket_milk: Seau de lait

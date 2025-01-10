@@ -1,0 +1,146 @@
+#====
+language.code: en-US
+language.name: English
+language.region: United States
+version:  1
+#====
+
+biome.ocean: Ocean
+biome.deep_ocean: Deep Ocean
+biome.warm_ocean: Warm Ocean
+biome.cold_ocean: Cold Ocean
+biome.beach: Beach
+biome.tundra: Tundra
+biome.snow: Snow
+biome.taiga: Taiga
+biome.grassland: Grassland
+biome.forest: Forest
+biome.desert: Desert
+biome.jungle: Jungle
+biome.savanna: Savanna
+biome.river: River
+biome.cave: Cave
+biome.swamp: Swamp
+
+tile.water: Water
+tile.sand: Sand
+tile.grass: Grass
+tile.dirt: Dirt
+tile.lilypad: Lilypad
+tile.lava: Lava
+tile.farmland: Farmland
+tile.wheat: Wheat
+tile.potato: Potato
+tile.carrot: Carrot
+tile.corn: Corn
+tile.tree: Tree
+tile.spruce: Spruce Tree
+tile.palm: Palm Tree
+tile.acacia: Acacia Tree
+tile.birch: Birch Tree
+tile.swamp_tree: Swamp Tree
+tile.rock: Rock
+tile.hole: Hole
+tile.snow: Snow
+tile.ice: Ice
+tile.plank: Plank
+tile.rail: Rail
+tile.flower: Flower
+tile.bush: Bush
+tile.stone: Stone
+tile.fence: Fence
+tile.fence_gate: Fence Gate
+tile.sugar_cane: Sugar Cane
+
+entity.player: Player
+entity.zombie: Zombie
+entity.skeleton: Skeleton
+entity.fish: Fish
+entity.chicken: Chicken
+entity.bed: Bed
+entity.chest: Chest
+entity.itemEntity: itemEntity
+
+item.dirt: Dirt
+item.sand: Sand
+item.ice: Ice
+item.snowball: Snowball
+item.apple: Apple
+item.wheat: Wheat
+item.potato: Potato
+item.carrot: Carrot
+item.corn: Corn
+item.cake: Cake
+item.egg: Egg
+item.seed_wheat: Wheat seed
+item.stone: Stone
+item.wood: Wood
+item.stick: Stick
+item.cactus_flower: Cactus Flower
+item.lilypad: Lilypad
+item.rail: Rail
+item.bread: Bread
+item.glass: Glass
+item.coal: Coal
+item.flask: Flask
+item.flint: Flint
+item.fence: Fence
+item.fence_gate: Fence Gate
+
+item.iron: Iron
+item.gold: Gold
+item.diamond: Diamond
+
+item.wood_axe: Wooden axe
+item.wood_hoe: Wooden hoe
+item.wood_pickaxe: Wooden pickaxe
+item.wood_shovel: Wooden shovel
+item.wood_sword: Wooden sword
+
+item.stone_axe: Stone axe
+item.stone_hoe: Stone hoe
+item.stone_pickaxe: Stone pickaxe
+item.stone_shovel: Stone shovel
+item.stone_sword: Stone sword
+
+item.iron_axe: Iron axe
+item.iron_hoe: Iron hoe
+item.iron_pickaxe: Iron pickaxe
+item.iron_shovel: Iron shovel
+item.iron_sword: Iron sword
+
+item.gold_axe: Golden axe
+item.gold_hoe: Golden hoe
+item.gold_pickaxe: Golden pickaxe
+item.gold_shovel: Golden shovel
+item.gold_sword: Golden sword
+
+item.diamond_axe: Diamond axe
+item.diamond_hoe: Diamond hoe
+item.diamond_pickaxe: Diamond pickaxe
+item.diamond_shovel: Diamond shovel
+item.diamond_sword: Diamond sword
+
+item.fishing_rod: Fishing rod
+item.fish: Fish
+
+item.camp: Camp
+item.chest: Chest
+item.music_player: Music Player
+item.bed: Bed
+item.oven: Oven
+item.furnace: Furnace
+item.alembic: Alembic
+item.anvil: Anvil
+item.workbench: Workbench
+
+item.potion_speed: Potion of Swiftness
+item.potion_heal: Potion of Healing
+item.potion_hunger: Potion of Hunger
+item.potion_power: Potion of Stength
+item.potion_slow: Potion of Slowness
+
+item.bucket_empty: Empty milk
+item.bucket_water: Bucket of water
+item.bucket_lava: Bucket of lava
+item.bucket_milk: Bucket of milk

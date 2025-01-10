@@ -1,0 +1,21 @@
+{
+  "compilerOptions": {
+    "strict": false,
+    "module": "commonjs",
+    "noImplicitAny": true,
+    "sourceMap": true,
+    "outDir": "dist",
+    "baseUrl": ".",
+    "target": "ES2020",
+    "esModuleInterop": true,
+    "removeComments": true,
+    "moduleResolution": "node",
+    "suppressImplicitAnyIndexErrors": true
+  },
+  "exclude": [
+    "node_modules"
+  ],
+  "include": [
+    "src/**/*"
+  ]
+}

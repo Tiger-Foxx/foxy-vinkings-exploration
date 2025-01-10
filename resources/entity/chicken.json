@@ -1,0 +1,33 @@
+{
+  "url": "entity/chicken.png",
+  "animations": [
+    {
+      "name": "idle",
+      "width": 16,
+      "height": 16,
+      "type": {
+        "normal": 0
+      },
+      "frames": [
+        [0],
+        [3],
+        [6],
+        [9]
+      ]
+    },
+    {
+      "name": "walk",
+      "width": 16,
+      "height": 16,
+      "type": {
+        "normal": 0
+      },
+      "frames": [
+        [1, 0, 2, 0],
+        [4, 3, 5, 3],
+        [7, 6, 8, 6],
+        [10, 9, 11, 9]
+      ]
+    }
+  ]
+}
